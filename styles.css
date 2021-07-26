@@ -31,3 +31,7 @@ img{
 .container{
     height: 100%;
 }
+video{
+width:350px;
+height:400px;
+box-sizing: border-box;
